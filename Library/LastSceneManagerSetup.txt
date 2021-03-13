@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Coin Chicken/Scenes/Finished.unity
+  isLoaded: 1
+  isActive: 1
